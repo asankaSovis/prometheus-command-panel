@@ -1,0 +1,74 @@
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.Buffers.dll
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.Memory.dll
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.Text.Json.dll
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.ValueTuple.dll
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.Buffers.xml
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.Memory.xml
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.Text.Json.xml
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\System.ValueTuple.xml
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmAlias.resources
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmDevice.resources
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmGraph.resources
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmMain.resources
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmLoading.resources
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmMessage.resources
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Fire Extinguisher.csproj.GenerateResource.cache
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Fire Extinguisher.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Fire Extinguisher.csproj.CopyComplete
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmAbout.resources
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\Prometheus Fire Extinguisher.exe.config
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\Prometheus Fire Extinguisher.exe
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\bin\Debug\Prometheus Fire Extinguisher.pdb
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Prometheus Fire Extinguisher.exe
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Prometheus Fire Extinguisher.pdb
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmNotification.resources
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Fire_Extinguisher.Properties.Resources.resources
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmSplash.resources
+C:\Users\akash\source\repos\Fire Extinguisher\Fire Extinguisher\obj\Debug\Fire Extinguisher.csproj.AssemblyReference.cache
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\Prometheus Fire Extinguisher.exe.config
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\Prometheus Fire Extinguisher.exe
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\Prometheus Fire Extinguisher.pdb
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.Buffers.dll
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.Memory.dll
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.Text.Json.dll
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.ValueTuple.dll
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.Buffers.xml
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.Memory.xml
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.Text.Json.xml
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\bin\Debug\System.ValueTuple.xml
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire Extinguisher.csproj.AssemblyReference.cache
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmSplash.resources
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmAbout.resources
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmAlias.resources
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmDevice.resources
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmGraph.resources
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmMain.resources
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmLoading.resources
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmMessage.resources
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire_Extinguisher.frmNotification.resources
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire_Extinguisher.Properties.Resources.resources
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire Extinguisher.csproj.GenerateResource.cache
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire Extinguisher.csproj.CoreCompileInputs.cache
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire Extinguisher.csproj.CopyComplete
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Prometheus Fire Extinguisher.exe
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Prometheus Fire Extinguisher.pdb
