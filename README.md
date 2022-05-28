@@ -1,4 +1,4 @@
 # 🔥 Prometheus Command Panel
-![Poster](https://user-images.githubusercontent.com/46389631/170764028-39a2ee27-849e-4c7b-96b5-4d9d201565e0.png)
+![Control Panel Poster](https://user-images.githubusercontent.com/46389631/170832714-0587bb0c-a896-40c6-9f3f-a69c376b9818.png)
 
 ---
