@@ -51,6 +51,9 @@ The control software is a piece of software that is written so that the user can
 
 The protocol was also an important aspect of the device. It allows the device to communicate with the Control Panel. All communication happen via USB between the PC and the FS232 module. The device communicate from its end via the COM ports while the device communicate from its end via the USB to TTL module. The communication is carried out in JSON. The communication protocol can be summed up as follows.
 
+> ![Communication Protocol](https://user-images.githubusercontent.com/46389631/185858973-9d774f34-22ac-4df5-a44c-d62a1f4d3c27.png)
+> Communication Protocol Breakdown
+
 ## Limitations
 
 -	Sometimes the application fails to detect the devices connected
@@ -58,3 +61,7 @@ The protocol was also an important aspect of the device. It allows the device to
 -	Protocol doesn’t have parity checks in place
 -	Communication is not encrypted and fool proof
 -	Minor bugs in the software
+
+[![Prometheus Fire Alarm System - Demonstration](https://www.youtube.com/watch?v=5h3k6kufkHo/0.jpg)](https://www.youtube.com/watch?v=5h3k6kufkHo "Prometheus Fire Alarm System - Demonstration")
+
+`© 2022 Asanka Sovis`
