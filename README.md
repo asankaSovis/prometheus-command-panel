@@ -62,6 +62,6 @@ The protocol was also an important aspect of the device. It allows the device to
 -	Communication is not encrypted and fool proof
 -	Minor bugs in the software
 
-[![Prometheus Fire Alarm System - Demonstration](https://www.youtube.com/watch?v=5h3k6kufkHo/0.jpg)](https://www.youtube.com/watch?v=5h3k6kufkHo "Prometheus Fire Alarm System - Demonstration")
+[![Prometheus Fire Alarm System - Demonstration](https://user-images.githubusercontent.com/46389631/185864316-67f4a5a4-1769-4117-bcbc-bbf7ab7d6a54.png)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Prometheus Fire Alarm System - Demonstration")
 
 `© 2022 Asanka Sovis`
