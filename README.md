@@ -19,7 +19,7 @@ There are four main sections and components for the proper functioning of the sy
 
 ## Command Panel Software
 
-The control software is a piece of software that is written so that the user can interface with the device. It connects to the device, displays data and statuses, allows the user to change settings and also view historical data for devices. The control software supports multiple devices to be operated at the same time. It is written in C# and is currently only available for Microsoft® Windows™. This program uses Windows APIs to connect to the COM ports of the computer to identify Prometheus devices connected.
+The **Prometheus Control Panel Software** is a piece of software that is written so that the user can interface with the device. It connects to the device, displays data and statuses, allows the user to change settings and also view historical data for devices. The control software supports multiple devices to be operated at the same time. It is written in C# and is currently only available for Microsoft® Windows™. This program uses Windows APIs to connect to the COM ports of the computer to identify Prometheus devices connected.
 
 > ![Software SS1](https://user-images.githubusercontent.com/46389631/185791330-9794a8b8-9144-4d10-bf61-85f5d442953d.png)
 > Overview of the Interface
