@@ -72,3 +72,4 @@ C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\D
 C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire Extinguisher.csproj.CopyComplete
 C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Prometheus Fire Extinguisher.exe
 C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Prometheus Fire Extinguisher.pdb
+C:\Users\akash\Documents\GitHub\prometheus-command-panel\Fire Extinguisher\obj\Debug\Fire Extinguisher.csproj.SuggestedBindingRedirects.cache
